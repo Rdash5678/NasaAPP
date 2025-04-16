@@ -11,3 +11,5 @@ For styling, I used custom CSS to ensure the app looked professional and had a p
 Additionally, React's component-driven architecture taught me how to structure a project for scalability, reusability, and maintainability. I understood the importance of keeping components small and focused on one task, which made debugging and updating the app much easier. This also helped me become more familiar with how data flows within React applications, and how to handle updates in an efficient way.
 
 Overall, this project was a fantastic opportunity to learn React while working on a real-world project. It gave me experience in API integration, front-end development, and custom CSS styling, all while building a professional, user-friendly web application.
+
+Link to How it Works: https://youtu.be/jqQjfsRXUDQ
